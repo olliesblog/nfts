@@ -1,6 +1,7 @@
 {
     "image":"https://easyasset.art/j/exfz5c/asset_data/exfz5c_thumb.png",
     "image_large":"https://easyasset.art/j/imc3fa/asset_data/imc3fa_image.png",
+    "description":"Introducing Rugweiser’s first-ever NFT collection. Beer #1 with that 100% Pepe taste.",
     "name":"RUGWEISER",
     "website":"https://twitter.com/olliesblog",
     "pgpsig":"olliesblog",
@@ -8,6 +9,5 @@
     "subcategory":"Your first beer, and your last.",
     "category_custom":"100% Pepe Taste",
     "hd_image":"https://easyasset.art/j/imc3fa/asset_data/imc3fa_hires.png",
-    "image_title":"RUGWEISER",
-    "description":"Introducing Rugweiser’s first-ever NFT collection. Beer #1 with 100% Pepe taste."
+    "image_title":"RUGWEISER"
 }
