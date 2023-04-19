@@ -13,8 +13,12 @@
          "index": : 1
       },
       {
-         "stamp": : "77a6830ab55591adc20a5fbc67efb88428639e66449b77710dbba4a5be39de72",
+         "stamp": : ,
          "index": : 2
+      },
+      {
+         "stamp": : ,
+         "index": : 3
       }
    ]
 }
