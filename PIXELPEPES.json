@@ -9,15 +9,15 @@
    },
    "stamps": : [
       {
-         "stamp": : 32257,
+         "stamp": : "PIXELPEPES.STAMPAMOTO",
          "index": : 1
       },
       {
-         "stamp": : ,
+         "stamp": : "PIXELPEPES.FTXSTAMP",
          "index": : 2
       },
       {
-         "stamp": : ,
+         "stamp": : "PIXELPEPES.SHITCOINSTAMP",
          "index": : 3
       }
    ]
